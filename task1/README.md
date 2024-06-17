@@ -17,7 +17,7 @@ This project is an implementation of the Vigenere Cipher for both English and Ru
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/fortrane/swsu-practice-4
+    git clone https://github.com/fortrane/swsu-practice-4.git
     cd /swsu-practice-4/task1
     ```
 
